@@ -3,7 +3,8 @@ PLEASE BE AWARE, I BARELY KNOW C# AND I AM VERY MUCH WINGING IT!!\
 HOPEFULLY IT IS CODED WELL BUT AGAIN I BARELY KNOW WHAT I AM DOING :(
 
 Bot spawner for Stay in Tarkov based on gaylatea S.P.A.W.N 1.0.2 for SPT-AKI\
-Stay in Tarkov by paulov-t: https://github.com/paulov-t/SIT.Launcher
+Stay in Tarkov by paulov-t: https://github.com/paulov-t/SIT.Launcher \
+S.P.A.W.N by gaylatea: https://hub.sp-tarkov.com/files/file/1150-s-p-a-w-n/
 
 Tested with AKI Server 3.5.8 BLEEDING EDGE and SIT.Core.1.6.8583.16193
 
