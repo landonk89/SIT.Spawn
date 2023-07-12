@@ -31,7 +31,7 @@ namespace Gaylatea
                 Spawn = Config.Bind(KeybindSectionName, "Spawn a Bot", new KeyboardShortcut(KeyCode.Equals), "Spawns a random bot somewhere on the map.");
                 PrevBot = Config.Bind(KeybindSectionName, "Next Bot Type", new KeyboardShortcut(KeyCode.Minus), "Changes to next bot type.");
                 NextBot = Config.Bind(KeybindSectionName, "Previous Bot Type", new KeyboardShortcut(KeyCode.Alpha0), "Changes to previous bot type.");
-                AiDifficulty = Config.Bind(SettingsSectionName, "Bot Difficulty", new BotDifficulty(), "Only applies to newly spawned bots.");
+                AiDifficulty = Config.Bind(SettingsSectionName, "Bot Difficulty", BotDifficulty.normal, "Only applies to newly spawned bots.");
                 SpawnType = Config.Bind(SettingsSectionName, "Force Spawn", true, "Force bot to spawn even if it doesn't want to.");
 
                 // Load in the bot spawning optimization patches.
