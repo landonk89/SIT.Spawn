@@ -1,4 +1,7 @@
 # SIT.Spawn
+PLEASE BE AWARE, I BARELY KNOW C# AND I AM VERY MUCH WINGING IT!!\
+HOPEFULLY IT IS CODED WELL BUT AGAIN I BARELY KNOW WHAT I AM DOING :(
+
 Bot spawner for Stay in Tarkov based on gaylatea S.P.A.W.N 1.0.2 for SPT-AKI\
 Stay in Tarkov by paulov-t: https://github.com/paulov-t/SIT.Launcher
 
